@@ -104,4 +104,8 @@ Highlights years with large volumes of upcoming permit expirations.
 **Prerequisites:** Docker (or Python 3.8+ with dependencies).  
 ```bash
 git clone https://github.com/SophiaVei/Renewable-Energy-Permits-Analytics.git  
-cd Renewable-Energy-Permits-Analytics  
+cd Renewable-Energy-Permits-Analytics
+
+---
+
+Note: the same plots created for Streamlit in this repo were later deployed on: [RES Market Monitor](https://trineflex.csd.auth.gr/energy-actors-observatory/res-monitor/data-analysis)

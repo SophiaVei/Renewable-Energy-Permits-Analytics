@@ -105,6 +105,7 @@ Highlights years with large volumes of upcoming permit expirations.
 ```bash
 git clone https://github.com/SophiaVei/Renewable-Energy-Permits-Analytics.git  
 cd Renewable-Energy-Permits-Analytics
+```
 
 ---
 

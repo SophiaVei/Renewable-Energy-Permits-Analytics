@@ -49,7 +49,7 @@ Below are selected key plots from the Streamlit dashboard.
 
 ---
 
-### ** Permit Distribution by Region**
+### Permit Distribution by Region
 
 Shows how renewable energy permits are distributed across Greek regions and technologies.
 

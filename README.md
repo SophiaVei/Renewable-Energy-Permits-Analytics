@@ -12,7 +12,7 @@ This repository provides a complete analytical framework for exploring **renewab
 The data was retrieved from the official RAE portal:  
 https://www.raaey.gr/energeia/ape/
 
-The visualizations produced here are also available live at:  
+The visualizations produced here were later deployed at:  
 **[RES Market Monitor – Data Analysis](https://trineflex.csd.auth.gr/energy-actors-observatory/res-monitor/data-analysis)**
 
 ---
@@ -106,7 +106,3 @@ Highlights years with large volumes of upcoming permit expirations.
 git clone https://github.com/SophiaVei/Renewable-Energy-Permits-Analytics.git  
 cd Renewable-Energy-Permits-Analytics
 ```
-
----
-
-Note: the same plots created for Streamlit in this repo were later deployed on: [RES Market Monitor](https://trineflex.csd.auth.gr/energy-actors-observatory/res-monitor/data-analysis)

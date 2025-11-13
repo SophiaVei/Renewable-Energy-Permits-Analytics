@@ -57,7 +57,7 @@ Shows how renewable energy permits are distributed across Greek regions and tech
 
 ---
 
-### ** Permit Trends Over Time**
+### Permit Trends Over Time
 
 Reveals historical trends in annual permit approvals.
 
@@ -65,7 +65,7 @@ Reveals historical trends in annual permit approvals.
 
 ---
 
-### ** Growth of Renewable Technologies**
+### Growth of Renewable Technologies
 
 Tracks the growth of installed capacity for each renewable technology.
 
@@ -73,7 +73,7 @@ Tracks the growth of installed capacity for each renewable technology.
 
 ---
 
-### ** Installed Capacity by Technology**
+### Installed Capacity by Technology
 
 A clear snapshot of Greece’s renewable energy mix.
 
@@ -81,7 +81,7 @@ A clear snapshot of Greece’s renewable energy mix.
 
 ---
 
-### ** Expiring Permits Timeline**
+### Expiring Permits Timeline
 
 Highlights years with large volumes of upcoming permit expirations.
 

@@ -5,3 +5,6 @@ docker-compose up --build
 http://localhost:5001/apidocs/
 
 ## API Endpoints & Visualization Mapping Guide: [Guide](https://docs.google.com/document/d/14T9Wm9U5U6pzQF5xWnoTQaE6KA2rXfQPnBXXn5BJbd0/edit?tab=t.0)
+
+
+Note: the same plots created for Streamlit in this repo were later deployed on: [RES Market Monitor](https://trineflex.csd.auth.gr/energy-actors-observatory/res-monitor/data-analysis)

@@ -51,6 +51,3 @@ Here are a couple of key views:
 ```bash
 git clone https://github.com/SophiaVei/Renewable-Energy-Permits-Analytics.git  
 cd Renewable-Energy-Permits-Analytics  
-
-
-Note: the same plots created for Streamlit in this repo were later deployed on: [RES Market Monitor](https://trineflex.csd.auth.gr/energy-actors-observatory/res-monitor/data-analysis)

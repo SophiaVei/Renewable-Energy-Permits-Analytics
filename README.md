@@ -1,4 +1,4 @@
-# ⚡ Renewable Energy Permits Analytics – Greece  
+# Renewable Energy Permits Analytics – Greece  
 **Interactive Visual Analytics & REST API for Renewable Energy Permit Data**
 
 This repository provides a complete analytical framework for exploring **renewable energy permits in Greece**, including:

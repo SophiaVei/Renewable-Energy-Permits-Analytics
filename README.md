@@ -1,37 +1,91 @@
-# Renewable-Energy-Permits-Analytics
-**Interactive analytics & API for Renewable Energy Permits in Greece**
+# ⚡ Renewable Energy Permits Analytics – Greece  
+**Interactive Visual Analytics & REST API for Renewable Energy Permit Data**
+
+This repository provides a complete analytical framework for exploring **renewable energy permits in Greece**, including:
+
+- Cleaned and standardized RAE permit data  
+- Interactive dashboards built with **Streamlit**  
+- A fully documented **REST API** with Swagger  
+- Docker-ready deployment  
+- Visual insights for policymakers, researchers, and energy planners  
+
+The data was retrieved from the official RAE portal:  
+https://www.raaey.gr/energeia/ape/
+
+The visualizations produced here are also available live at:  
+**[RES Market Monitor – Data Analysis](https://trineflex.csd.auth.gr/energy-actors-observatory/res-monitor/data-analysis)**
 
 ---
 
-## Project Overview  
-This repository provides a full-stack analytics solution for renewable energy permits in Greece.  
-- We obtained raw permit data from the official portal of the Regulatory Authority for Energy (RAE) for small and large scale projects.  
-- The data is cleaned, transformed and visualised via a web GUI built with Streamlit, and exposed as a RESTful API.  
-- Purpose: to support policymakers, researchers, and energy-market stakeholders with **exploratory insights**, **regional summaries**, and **real time data access** via Docker-containerised deployment.
+## Project Overview
+
+This project analyzes renewable energy permits issued across Greece, providing insights such as:
+
+- Regional permit distribution  
+- Historical growth trends  
+- Installed capacity by technology  
+- Expiring permits and future renewal load  
+- Technology adoption patterns  
+
+The goal is to support **data-driven decision making** in Greece’s energy transition.
 
 ---
 
-## Why it matters  
-Greece’s energy transition relies on effective monitoring of renewable energy deployment. This project:  
-- Enables transparent tracking of permits by region, technology, and time.  
-- Helps identify bottlenecks or delays in the permitting pipeline.  
-- Supports data-driven decision making via visual dashboards and easily accessible endpoints.
+## Key Features
+
+- **Streamlit dashboard** for interactive exploration  
+- **REST API** for programmatic access to cleaned permit data  
+- **Regional analysis** with maps and technology distributions  
+- **Time-series analysis** for installed capacity & permit issuance  
+- **Docker deployment** for reproducible environments  
+- Clean, validated datasets ready for further analysis  
 
 ---
 
-## Live Demo  
-Explore the interactive app: [RAE Insights on Streamlit](https://rae-insights.streamlit.app/)  
-*(Consider removing the lengthy fbclid parameter once stable.)*
+## Featured Visual Insights
 
-Here are a couple of key views:  
-<!-- Suggest adding screenshots: e.g. “permit_time_series.png”, “regional_heatmap.png” -->
-![Time Series of Permits over Time](assets/time_series_permits.png)  
-*Fig 1 – Cumulative number of permits by technology over time.*
+Below are selected key plots from the Streamlit dashboard.  
+*(To keep the README concise, only the most informative figures are included.)*
 
-![Greek Regional Map of Permits](assets/greece_regional_map.png)  
-*Fig 2 – Heatmap by Regional Unit for number of permits approved.*
+---
 
-> You can place such screenshots in an `assets/` directory and reference them like above.
+### ** Permit Distribution by Region**
+
+Shows how renewable energy permits are distributed across Greek regions and technologies.
+
+![Permit Distribution](assets/permit_distribution.png)
+
+---
+
+### ** Permit Trends Over Time**
+
+Reveals historical trends in annual permit approvals.
+
+![Permit Trends](assets/permit_trends.png)
+
+---
+
+### ** Growth of Renewable Technologies**
+
+Tracks the growth of installed capacity for each renewable technology.
+
+![Growth of Technologies](assets/growth_technologies.png)
+
+---
+
+### ** Installed Capacity by Technology**
+
+A clear snapshot of Greece’s renewable energy mix.
+
+![Installed Capacity](assets/installed_capacity.png)
+
+---
+
+### ** Expiring Permits Timeline**
+
+Highlights years with large volumes of upcoming permit expirations.
+
+![Expiring Permits](assets/expiring_permits.png)
 
 ---
 
